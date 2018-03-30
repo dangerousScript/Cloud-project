@@ -1,0 +1,9 @@
+C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\ComputeService\bin\Debug\ComputeService.exe.config
+C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\ComputeService\bin\Debug\ComputeService.exe
+C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\ComputeService\bin\Debug\ComputeService.pdb
+C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\ComputeService\bin\Debug\Contracts.dll
+C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\ComputeService\bin\Debug\Contracts.pdb
+C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\ComputeService\obj\Debug\ComputeService.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\ComputeService\obj\Debug\ComputeService.csproj.CoreCompileInputs.cache
+C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\ComputeService\obj\Debug\ComputeService.exe
+C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\ComputeService\obj\Debug\ComputeService.pdb
