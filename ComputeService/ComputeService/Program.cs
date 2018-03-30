@@ -41,19 +41,19 @@ namespace ComputeService
 			int _counter = 0;
 
 			Process.Start("..\\..\\..\\Container\\bin\\Debug\\Container.exe", Ports.port1.ToString());
-			proxy1 = new ChannelFactory<IContainer>(binding, new EndpointAddress("net.tcp://localhost:" + Ports.port1.ToString() + "/IContainer")).CreateChannel();
+			proxy1 = new ChannelFactory<IContainer>(binding, new EndpointAddress("net.tcp://localhost:" + Ports.port1.ToString() + "/Container")).CreateChannel();
 			_counter++;
 
 			Process.Start("..\\..\\..\\Container\\bin\\Debug\\Container.exe", Ports.port2.ToString());
-			proxy2 = new ChannelFactory<IContainer>(binding, new EndpointAddress("net.tcp://localhost:" + Ports.port2.ToString() + "/IContainer")).CreateChannel();
+			proxy2 = new ChannelFactory<IContainer>(binding, new EndpointAddress("net.tcp://localhost:" + Ports.port2.ToString() + "/Container")).CreateChannel();
 			_counter++;
 
 			Process.Start("..\\..\\..\\Container\\bin\\Debug\\Container.exe", Ports.port1.ToString());
-			proxy3 = new ChannelFactory<IContainer>(binding, new EndpointAddress("net.tcp://localhost:" + Ports.port3.ToString() + "/IContainer")).CreateChannel();
+			proxy3 = new ChannelFactory<IContainer>(binding, new EndpointAddress("net.tcp://localhost:" + Ports.port3.ToString() + "/Container")).CreateChannel();
 			_counter++;
 
 			Process.Start("..\\..\\..\\Container\\bin\\Debug\\Container.exe", Ports.port1.ToString());
-			proxy4 = new ChannelFactory<IContainer>(binding, new EndpointAddress("net.tcp://localhost:" + Ports.port4.ToString() + "/IContainer")).CreateChannel();
+			proxy4 = new ChannelFactory<IContainer>(binding, new EndpointAddress("net.tcp://localhost:" + Ports.port4.ToString() + "/Container")).CreateChannel();
 			_counter++;
 
 			if(_counter == 4)

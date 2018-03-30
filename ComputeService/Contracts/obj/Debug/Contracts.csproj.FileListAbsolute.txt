@@ -3,3 +3,4 @@ C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\Contracts\bin\Debug\
 C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
 C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\Contracts\obj\Debug\Contracts.dll
 C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\Contracts\obj\Debug\Contracts.pdb
+C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
