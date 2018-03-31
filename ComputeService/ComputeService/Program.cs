@@ -9,7 +9,7 @@ using System.Diagnostics; // za Process
 
 namespace ComputeService
 {
-	public enum Ports {
+	public enum Ports { // enum za portove
 		port1 = 10010,
 		port2 = 10020,
 		port3 = 10030,
