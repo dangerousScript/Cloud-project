@@ -1,9 +1,0 @@
-C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\Container\bin\Debug\Container.exe.config
-C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\Container\bin\Debug\Container.exe
-C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\Container\bin\Debug\Container.pdb
-C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
-C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\Container\obj\Debug\Container.csproj.CoreCompileInputs.cache
-C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\Container\obj\Debug\Container.exe
-C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\Container\obj\Debug\Container.pdb
-C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\Container\bin\Debug\Contracts.dll
-C:\Users\stefan\Desktop\GitHub\Cloud-project\ComputeService\Container\bin\Debug\Contracts.pdb
