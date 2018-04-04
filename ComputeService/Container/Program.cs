@@ -12,7 +12,7 @@ namespace Container
 	{
 		#region variables
 		private static ServiceHost serviceHost;
-		public static IWorkerRole proxy;
+		//public static IWorkerRole proxy;
 		public static NetTcpBinding binding;
 		public static int port;
 		#endregion
